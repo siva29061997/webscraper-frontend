@@ -92,7 +92,7 @@ function App() {
                     <p class="card-text">
                       Actual price : {data[0].actualprice}
                     </p>
-                    <a href={data[0].url} class="btn btn-primary">
+                    <a class="text0" target="_blank" href={data[0].url} className="btn btn-primary">
                       Go To {data[0].provider}
                     </a>
                   </div>
@@ -116,7 +116,7 @@ function App() {
                     <p class="card-text">
                       Actual price : {datax[0].actualprice}
                     </p>
-                    <a href={datax[0].url} class="btn btn-primary">
+                    <a class="text0" target="_blank" href={datax[0].url} className="btn btn-primary">
                       Go To {datax[0].provider}
                     </a>
                   </div>
