@@ -69,7 +69,7 @@ function App() {
           <div class="text-center col-12">
             <p class="text-white">
               WE Could Scrap Any ProductData From Amazon And Flipkart Within
-              '30' seconds
+              '15' seconds
             </p>
           </div>
         </div>
